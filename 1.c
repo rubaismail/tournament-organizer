@@ -1,8 +1,6 @@
-/* COP 3502C Assignment 1
-* This program is written by: Ruba Ismail
-* UCF ID: 5186181
+/* 
+* This program is written by Ruba Ismail
 * Date: 1/21/2025
-* Class: COP 3205C, Professor Tanvir
 * Purpose: take in matches of teams and process the information
 */
 
