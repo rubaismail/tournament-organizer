@@ -1,5 +1,7 @@
 # tournament-organizer
 
+A few related programs that demonstrate profiency in C using various Data Structures and Algs.
+
 1. a system to store tournament data, facilitate queries, and perform data analytics.
 
 2. Background:
