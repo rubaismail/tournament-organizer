@@ -1,8 +1,6 @@
-/* COP 3502C Assignment 4
-* This program is written by: Ruba Ismail
-* UCF ID: 5186181
+/* 
+* This program is written by Ruba Ismail
 * Date: 3/09/2025
-* Class: COP 3205C, Professor Tanvir
 * Purpose: sort stadium coordinates using merge sort and insert sort
 */
 
