@@ -1,8 +1,6 @@
-/* COP 3502C Assignment 2
-* This program is written by: Ruba Ismail
-* UCF ID: 5186181
+/* 
+* This program is written by Ruba Ismail
 * Date: 2/5/2025
-* Class: COP 3205C, Professor Tanvir
 * Purpose: process ticket lines as queues
 */
 
