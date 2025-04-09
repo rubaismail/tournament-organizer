@@ -1,8 +1,6 @@
-/* COP 3502C Assignment 3
+/* 
 * This program is written by: Ruba Ismail
-* UCF ID: 5186181
 * Date: 2/20/2025
-* Class: COP 3205C, Professor Tanvir
 * Purpose: Find the number of possible permutations in a seating plan
 */
 
