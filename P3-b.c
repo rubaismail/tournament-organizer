@@ -1,5 +1,5 @@
 /*
-* This program is written by: Ruba Ismail
+* This program is written by Ruba Ismail
 * Date: 2/20/2025
 * Purpose: find the first valid seating arrangement from permutation
 */
