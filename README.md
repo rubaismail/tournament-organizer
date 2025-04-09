@@ -2,21 +2,5 @@
 
 A few related programs that demonstrate profiency in C using various Data Structures and Algs.
 
-1. a system to store tournament data, facilitate queries, and perform data analytics.
-
-2. Background:
-  Tickets must be bought in advance, but the ticketing center wasn’t prepared to handle
-  such a high volume of customers. There is only one counter with a single employee working to sell
-  tickets. To disguise this, the center has set up 12 lines, with customers directed to one of them. Note that,
-  some lines out of these 12 lines could be empty as well.
-  When a customer arrives, their arrival time, last name, line number, and the number of tickets they plan
-  to buy are recorded before they join a queue to meet the ticketing employee. Upon reaching the counter,
-  they must also provide details for each ticket they are purchasing, which adds to the processing time.
-  After assisting a customer, the cashier checks the status of all the active lines. The customer at the front
-  of each queue with the fewest tickets will be served next. If multiple customers are buying the same
-  minimum number of tickets, the cashier will choose the one from the lowest-numbered line. The lines
-  are numbered from 1 to 12, and any empty lines are ignored.
-  The time it takes for the cashier to process a customer is 20 seconds, plus 10 seconds per ticket.
-
-3. 
-
+Project 1: Dynamic Memory Allocation in a Soccer Tournament System
+This project is a C-based simulation of an international soccer tournament that leverages dynamic memory allocation and pointer manipulation to manage complex data structures. The system dynamically allocates memory to handle teams, players, matches, and goal events, ensuring efficient storage and retrieval of tournament data. Key functionalities include identifying the highest-scoring player, determining match winners, detecting hat tricks, and computing the tournament champion based on defined scoring rules. This assignment provided an in-depth exploration of dynamic memory techniques, rigorous pointer management, and the implementation of multiple command-based queries to analyze and process real-time sports data.
